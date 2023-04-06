@@ -14,3 +14,16 @@ D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\De
 D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Forms.FormNews.resources
 D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Forms.FormSchedule.resources
 D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Forms.FormSettings.resources
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Forms.FormAuth.resources
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\MySql.Data.dll
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\Google.Protobuf.dll
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\ZstdNet.dll
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\BouncyCastle.Crypto.dll
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\System.Memory.dll
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\System.Buffers.dll
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\K4os.Compression.LZ4.dll
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\K4os.Hash.xxHash.dll
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\MySql.Data.xml
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.exe.config
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.csproj.CopyComplete

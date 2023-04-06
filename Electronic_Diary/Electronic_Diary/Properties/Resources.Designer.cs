@@ -63,6 +63,16 @@ namespace Electronic_Diary.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap app_logo {
+            get {
+                object obj = ResourceManager.GetObject("app_logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap book_logo {
             get {
                 object obj = ResourceManager.GetObject("book_logo", resourceCulture);
@@ -103,6 +113,16 @@ namespace Electronic_Diary.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pass_logo {
+            get {
+                object obj = ResourceManager.GetObject("pass_logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap schedule_logo {
             get {
                 object obj = ResourceManager.GetObject("schedule_logo", resourceCulture);
@@ -116,6 +136,16 @@ namespace Electronic_Diary.Properties {
         internal static System.Drawing.Bitmap settings_logo {
             get {
                 object obj = ResourceManager.GetObject("settings_logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user_logo {
+            get {
+                object obj = ResourceManager.GetObject("user_logo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
