@@ -1,0 +1,16 @@
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\Electronic_Diary.exe.config
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\Electronic_Diary.exe
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\bin\Debug\Electronic_Diary.pdb
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.csproj.AssemblyReference.cache
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.csproj.SuggestedBindingRedirects.cache
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Form1.resources
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Properties.Resources.resources
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.csproj.GenerateResource.cache
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.csproj.CoreCompileInputs.cache
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.exe
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.pdb
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Forms.FormElDiary.resources
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Forms.FormMarks.resources
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Forms.FormNews.resources
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Forms.FormSchedule.resources
+D:\Универ\ООП\Курсовая\Electronic_Diary\Electronic_Diary\obj\Debug\Electronic_Diary.Forms.FormSettings.resources
