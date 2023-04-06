@@ -1,0 +1,1 @@
+# ElDiary_Kursach
